@@ -1,0 +1,48 @@
+body {
+  background: url(./mountain.jpg);
+  background-repeat: no-repeat;
+  background-size: 1200px;
+  background-color: black;
+}
+
+.house {
+  position: relative;
+  top: 370px;
+  left: 100px;
+}
+
+.tree1 {
+  position: relative;
+  top: 350px;
+  left: 390px;
+}
+
+.tree2 {
+  position: relative;
+  top: 350px;
+  left: 40px;
+}
+
+.tree3 {
+  position: absolute;
+  top: 350px;
+  left: -50px;
+}
+
+.tree4 {
+    position: absolute;
+    top: 450px;
+    left: -10px;
+  }
+
+  .tree5 {
+    position: absolute;
+    top: 440px;
+    left: 240px;
+  }
+
+  .birds{
+    position: relative;
+    top: 60px;
+    left: -400px;
+  }
